@@ -25,7 +25,7 @@
     <bool name="doze_display_state_supported">true</bool>
 
     <!-- If true, will show a plus sing in front of LTE -->
-    <bool name="config_hideLtePlus">true</bool>
+    <bool name="config_hideLtePlus">false</bool>
 
 </resources>
 
