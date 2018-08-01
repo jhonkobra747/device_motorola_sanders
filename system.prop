@@ -262,8 +262,8 @@ ro.adb.secure=0
 ro.secure=0
 ro.debuggable=1
 
+# SDCARDFS
 ro.sys.sdcardfs=true
-
 
 # Display power reduction (FOSS)
 ro.qcom.dpps.sensortype=3
