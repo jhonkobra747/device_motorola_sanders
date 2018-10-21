@@ -306,3 +306,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.usb.bpt_adb=0x2ee6 \
     ro.usb.bpteth=0x2ee7 \
     ro.usb.bpteth_adb=0x2ee8
+
+# touch optimize
+PRODUCT_PROPERTY_OVERRIDES += \
+		persist.vendor.qti.inputopts.enable=true
+		persist.vendor.qti.inputopts.movetouchslop=0.6
