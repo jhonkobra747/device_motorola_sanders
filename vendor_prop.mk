@@ -317,4 +317,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.qualcomm.foss=1 \
     config.foss.xml=1 \
     config.foss.path=/vendor/etc/FOSSConfig.xml
-
