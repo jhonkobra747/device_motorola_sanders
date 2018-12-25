@@ -422,6 +422,9 @@
 
     <!-- Whether the device has fingeprint sensor or not -->
     <bool name="config_hasFingerprintSensor">true</bool>
+
+    <!-- Whether device has turbo power charging support -->
+    <bool name="config_hasTurboPowerCharger">true</bool>
     
     <bool name="config_smart_battery_available">true</bool>
 </resources>
