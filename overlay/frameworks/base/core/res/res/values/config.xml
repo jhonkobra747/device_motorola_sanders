@@ -427,4 +427,8 @@
     <bool name="config_hasTurboPowerCharger">true</bool>
     
     <bool name="config_smart_battery_available">true</bool>
+
+     <!-- Whether the always on display mode is available. -->
+     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+
 </resources>
