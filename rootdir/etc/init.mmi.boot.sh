@@ -41,6 +41,7 @@ if [ -f /sys/devices/soc0/select_image ]; then
     echo $image_version > /sys/devices/soc0/image_version
     echo $image_variant > /sys/devices/soc0/image_variant
     echo $oem_version > /sys/devices/soc0/image_crm_version
+    insmod /vendor/lib/modules/isdbt.ko
 fi
 
 
